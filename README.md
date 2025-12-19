@@ -21,5 +21,5 @@ Follow these steps to set up and run the application on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [YOUR REPOSITORY URL HERE]
+git clone [https://github.com/saakshibh/Todo-app-.git]
 cd flask
