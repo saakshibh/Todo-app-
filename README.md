@@ -15,9 +15,9 @@ This is a simple, full-stack Todo list application built using the Flask web fra
 * Update/Edit existing task details.
 * Delete tasks from the list.
 
-## 🚀 How to Run Locally
+## 🚀To Run Locally
 
-Follow these steps to set up and run the application on your local machine:
+https://todo-app-qzsp.onrender.com
 
 ### 1. Clone the Repository
 ```bash
